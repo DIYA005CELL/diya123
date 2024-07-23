@@ -1,0 +1,9 @@
+a=23
+b=True
+c=None
+a='i love diya'
+print (a,b,c)
+print(b)
+print(c)
+
+print(type(a))

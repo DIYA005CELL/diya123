@@ -1,0 +1,22 @@
+print('''diya
+paul'''  )
+
+print('''hfuyr7kfyd
+vhjbjbk
+kbknk''')
+#ugydktd,h/iouvos7.8tiy
+
+from playsound import playsound
+playsound('C:\\Users\\paulr\\Downloads\\Teri Main Hogayi_64(PagalWorld.com.se).mp3')
+
+
+from playsound import playsound
+playsound("
+          
+          
+          import OS
+          print(os.listdir())
+          
+          
+          
+          
